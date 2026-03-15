@@ -1,0 +1,7 @@
+# Docker
+**/mysql/data
+**/vendor
+**/node_modules
+**/.env.*
+**/storage
+**/bootstrap/cache

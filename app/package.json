@@ -1,0 +1,8 @@
+{
+  "name": "laravel-app",
+  "private": true,
+  "scripts": {
+    "build": "echo \"No build step defined.\""
+  },
+  "devDependencies": {}
+}
